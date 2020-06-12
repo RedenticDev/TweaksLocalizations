@@ -1,0 +1,4 @@
+{
+    ENABLE_SNOOP = "Activer Snoop";
+    ENABLE_STOCK_ITEMS = "Activer les éléments par défaut";
+}

@@ -1,0 +1,27 @@
+{
+    SNOOP = "Snoop";
+    ENABLED = "Enabled";
+    NO_RESPRING_REQUIRED = "No respring is required for this tweak.";
+
+    SNOOP_ALIGNMENT = "Snoop Position";
+    SHOW_UNDER = "Under stock items";
+    SHOW_ON_TOP = "On top of others";
+    SNOOP_ALIGNMENT_FOOTER = "\"On top of others\" will make Snoop item the closest item to the app's logo.";
+
+    FILE_MANAGER = "File Manager";
+
+    APPS_OPTIONS = "Apps Options";
+    MANAGE_APPS = "Manage apps";
+
+    CONTRIBUTORS = "Contributors";
+    CONTRIBUTE_TO_TRANSLATIONS = "📖 Contribute to translations!";
+
+    SUPPORT_TITLE = "Support";
+    BUY_ME_A_COFFEE = "☕️ Buy me a coffee";
+    FEATURE_REQUEST = "💡 Feature Request?";
+    MAIL = "Mail";
+    FOUND_A_BUG = "🐞 Found a Bug?";
+    SOURCE_CODE = "💻 Source Code";
+
+    FOOTER_TEXT = "Snoop by RedenticDev";
+}

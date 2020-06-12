@@ -1,0 +1,14 @@
+{
+    MANAGE_INDIVIDUALLY_TITLE = "Gestion Individuelle";
+    MANAGE_INDIVIDUALLY = "Gérer les apps individuellement";
+
+    TOGGLE_APPS = "Inverser l'activation des apps";
+    TOGGLE_SNOOP_ACTIVATION = "Inverser l'activation de Snoop dans les apps";
+    TOGGLE_STOCK_ACTIVATION = "Inverser l'activation des éléments par défaut";
+    TOGGLE_FOOTER = "Cette section inverse l'activation de Snoop et/ou des éléments par défaut. Cela activera l'option dans les apps où elle est désactivée, et inversement.";
+
+    GLOBAL_ENABLING_DISABLING = "Activation/désactivation globale";
+    GLOBAL_ENABLING_DISABLING_SNOOP = "Activer/désactiver Snoop globalement";
+    GLOBAL_ENABLING_DISABLING_STOCKS = "Activer/désactiver les éléments par défaut";
+    GLOBAL_ENABLING_DISABLING_FOOTER = "Cette section active ou désactive globalement Snoop et/ou les éléments par défaut, que l'option soit activée ou désactivée individuellement. Agit de la même façon que l'option principale 'Activé' pour Snoop.";
+}

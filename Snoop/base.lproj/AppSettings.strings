@@ -1,0 +1,4 @@
+{
+    ENABLE_SNOOP = "Enable Snoop";
+    ENABLE_STOCK_ITEMS = "Enable stock items";
+}

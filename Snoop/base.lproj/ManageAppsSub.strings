@@ -1,0 +1,14 @@
+{
+    MANAGE_INDIVIDUALLY_TITLE = "Individual Management";
+    MANAGE_INDIVIDUALLY = "Manage apps individually";
+
+    TOGGLE_APPS = "Toggle Apps";
+    TOGGLE_SNOOP_ACTIVATION = "Toggle Snoop Item activation";
+    TOGGLE_STOCK_ACTIVATION = "Toggle Stock Items activation";
+    TOGGLE_FOOTER = "This section toggles individual activation for each app. It will set enabled apps disabled and disabled apps enabled for each option.";
+
+    GLOBAL_ENABLING_DISABLING = "Global Enabling/Disabling";
+    GLOBAL_ENABLING_DISABLING_SNOOP = "Enable/Disable Snoop Globally";
+    GLOBAL_ENABLING_DISABLING_STOCKS = "Enable/Disable Stock Items Globally";
+    GLOBAL_ENABLING_DISABLING_FOOTER = "This section enables or disables globally Snoop and/or stock items, whether the option is enabled individually or not. Acts the same as Snoop's main 'Enable' switch for Snoop option.";
+}
