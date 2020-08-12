@@ -1,20 +1,27 @@
 {
     FASTLPM = "FastLPM";
+
+    RESPRING = "Respring";
+    RESPRING_PROMPT = "Voulez-vous vraiment respring votre appareil ?";
+    YES_PROMPT = "Oui";
+    NO_PROMPT = "Non";
+
     ENABLED = "Activé";
-    RESPRING_INFO = "Un respring peut être nécessaire pour le switch Activé seulement.";
+    RESPRING_INFO = "Un respring est requis pour le switch Activé.";
 
-    GLOBAL_SETTINGS = "Paramètres globaux";
+    ACTIVATION_SETTINGS = "Options d'activation";
+    ACTIVATION = "Activation";
+    NEEDS_RESPRING = "Un respring est requis pour la section Activation.";
+
+    VIBRATION_ACTIVATION = "Activation des vibrations";
     VIBRATIONS_ENABLED = "Vibrations";
+    VIBRATION_SETTINGS = "Options des vibrations";
 
-    VIBRATIONS_7_AND_NEWER = "Type de vibrations (iPhone 7 & plus récent)";
-    LIGHT = "Léger";
-    MEDIUM = "Moyen";
-    HEAVY = "Fort";
-    SOFT = "Doux";
-    RIGID = "Rigide";
-
-    VIBRATIONS_6S_AND_LESS = "Type de vibrations (iPhone 6S & plus vieux)";
-    STRONG = "Puissant";
+    OTHER_TITLE = "Autre";
+    RESET_PREFS = "Réinitialiser les options";
+    RESET_CONFIRMATION = "Voulez-vous vraiment réinitialiser les préférences de FastLPM ? Cette action est irréversible.";
+    CONFIRM = "Confirmer";
+    CANCEL = "Annuler";
 
     CONTRIBUTORS = "Contributeurs";
     CONTRIBUTE_TO_TRANSLATIONS = "📖 Contribuez aux traductions !";
@@ -27,4 +34,9 @@
     SOURCE_CODE = "💻 Code source";
 
     FOOTER_TEXT = "FastLPM par RedenticDev";
+
+    /* WelcomePageController.m */
+    CONTINUE = "Continuer";
+    THX_FOR_USING = "Merci d'utiliser %@ !";
+    WHATS_NEW = "Nouveautés de la %@";
 }
