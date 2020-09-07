@@ -1,0 +1,18 @@
+{
+    /* Follow the keys syntax for each change. Icons possible values: 'new', 'fix', 'removed' (do not localize). */
+    CHANGE_1_A_ICON = "novo";
+    CHANGE_1_B_TITLE = "Ativação";
+    CHANGE_1_C_CONTENT = "Suporte para toque, segurar, arrastar e até 3D Touch";
+
+    CHANGE_2_A_ICON = "novo";
+    CHANGE_2_B_TITLE = "Vibração";
+    CHANGE_2_C_CONTENT = "Suporte a repetições com múltiplas opções";
+
+    CHANGE_3_A_ICON = "consertados";
+    CHANGE_3_B_TITLE = "Customização";
+    CHANGE_3_C_CONTENT = "Várias opções adicionadas, informações & um botão de reset";
+
+    CHANGE_4_A_ICON = "removidos";
+    CHANGE_4_B_TITLE = "Melhorias e estabilidade";
+    CHANGE_4_C_CONTENT = "Conflitos entre tweaks removidos e correção de erros";
+}
