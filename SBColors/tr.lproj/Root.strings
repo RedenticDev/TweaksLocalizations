@@ -1,0 +1,37 @@
+{
+    SBCOLORS = "SBColors";
+    ENABLED = "Aktif";
+
+    SB_ITEMS_TITLE = "Durum Çubuğu Öğeleri";
+    COMPATS_EXPL = "Uyumlu tweakler:\nJuice = Pil Şarj Etme\nPrysm öğeleri = Etiketler\nPrysm seçenekleri = Diğer seçenekler";
+    TIME_PICKER = "Saat";
+    STRINGS_PICKER = "Yazılar (Operatör adı, LTE (Hücresel Veri), Breadcrumb)";
+    BATTERY_BODY_PICKER = "Pil Gövdesi";
+    BATTERY_FILL_PICKER = "Pil İçi";
+    LTE_ACTIVE_PICKER = "LTE Sinyali (aktif)";
+    LTE_INACTIVE_PICKER = "LTE Sinyali (devre dışı)";
+    WIFI_ACTIVE_PICKER = "WiFi (aktif)";
+    WIFI_INACTIVE_PICKER = "WiFi (devre dışı)";
+    ACTIVITY_INDICATOR_PICKER = "Aktivite Göstergesi";
+    OTHER_GLYPHS_PICKER = "Diğer göstergeler (Rahatsız Etme, Alarm...)";
+
+    OTHER_TITLE = "Diğer";
+    RESET_PREFS = "Tweak Ayarlarını Sıfırla";
+    RESET_CONFIRMATION = "SBColors ayarlarını sıfırlamak istediğinizden emin misiniz? Bu, respring yapmanızı gerektirir.";
+    CONFIRM = "Onayla";
+    CANCEL = "İptal";
+
+    SPECIAL_THANKS_TITLE = "Teşekkürler";
+
+    CONTRIBUTORS = "Katkıda Bulunanlar";
+    CONTRIBUTE_TO_TRANSLATIONS = "📖 Çevirilere katkıda bulun!";
+
+    SUPPORT_TITLE = "Destek";
+    BUY_ME_A_COFFEE = "☕️ Bana bir bardak kahve alın :)";
+    FEATURE_REQUEST = "💡 İstediğiniz bir özellik mi var?";
+    MAIL = "E-posta";
+    FOUND_A_BUG = "🐞 Bir hata mı buldunuz?";
+    SOURCE_CODE = "💻 Kaynak Kodu";
+
+    FOOTER_TEXT = "RedenticDev'den SBColors";
+}
