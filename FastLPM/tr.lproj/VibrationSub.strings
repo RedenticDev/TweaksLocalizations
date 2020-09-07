@@ -19,5 +19,5 @@
     GROWING_DURATION = "Artma süresi";
     GROWING_DURATION_EXPL = "Bu seçenek, her bir titreme için tekrarlama aralığını iki katına çıkarır.";
 
-    FOOTER_TEXT = "RedenticDev'den FastLPM";
+    FOOTER_TEXT = "FastLPM, RedenticDev'den";
 }

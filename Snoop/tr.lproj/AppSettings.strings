@@ -1,0 +1,4 @@
+{
+    ENABLE_SNOOP = "Snoop'u aktif et";
+    ENABLE_STOCK_ITEMS = "Varsayılan öğeleri aktif et";
+}

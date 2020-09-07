@@ -1,0 +1,27 @@
+{
+    SNOOP = "Snoop";
+    ENABLED = "Aktif";
+    NO_RESPRING_REQUIRED = "Bu tweak için respring gerekli değil.";
+
+    SNOOP_ALIGNMENT = "Snoop Pozisyonu";
+    SHOW_UNDER = "Varsayılan öğelerin altında";
+    SHOW_ON_TOP = "Diğerlerinin üstünde";
+    SNOOP_ALIGNMENT_FOOTER = "\"Diğerlerinin üstünde\" seçeneği, Snoop'u bir uygulamanın logosuna en yakın öğe yapar.";
+
+    FILE_MANAGER = "Dosya Yöneticisi";
+
+    APPS_OPTIONS = "Uygulama Seçenekleri";
+    MANAGE_APPS = "Uygulamaları yönet";
+
+    CONTRIBUTORS = "Katkıda Bulunanlar";
+    CONTRIBUTE_TO_TRANSLATIONS = "📖 Çevirilere katkıda bulun!";
+
+    SUPPORT_TITLE = "Destek";
+    BUY_ME_A_COFFEE = "☕️ Bana bir bardak kahve alın :)";
+    FEATURE_REQUEST = "💡 İstediğiniz bir özellik mi var?";
+    MAIL = "E-posta";
+    FOUND_A_BUG = "🐞 Bir hata mı buldunuz?";
+    SOURCE_CODE = "💻 Kaynak Kodu";
+
+    FOOTER_TEXT = "Snoop, RedenticDev'den";
+}

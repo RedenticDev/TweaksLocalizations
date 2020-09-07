@@ -33,5 +33,5 @@
     FOUND_A_BUG = "🐞 Bir hata mı buldunuz?";
     SOURCE_CODE = "💻 Kaynak Kodu";
 
-    FOOTER_TEXT = "RedenticDev'den SBColors";
+    FOOTER_TEXT = "SBColors, RedenticDev'den";
 }
