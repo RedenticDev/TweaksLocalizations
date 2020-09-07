@@ -1,0 +1,6 @@
+{
+    SNOOP = "Snoop";
+
+    TESTERS = "Testadores";
+    TRANSLATORS = "Tradutores";
+}
