@@ -1,0 +1,14 @@
+{
+    MANAGE_INDIVIDUALLY_TITLE = "Gerenciamento Individual";
+    MANAGE_INDIVIDUALLY = "Gerencie aplicativos individualmente";
+
+    TOGGLE_APPS = "Alternar Aplicativos";
+    TOGGLE_SNOOP_ACTIVATION = "Alternar ativação dos itens do Snoop";
+    TOGGLE_STOCK_ACTIVATION = "Alternar a ativação dos itens padrão";
+    TOGGLE_FOOTER = "Esta seção alterna a ativação individual para cada aplicativo. Desabilitará aplicativos habilitados e habilitará os desabilitados para cada opção.";
+
+    GLOBAL_ENABLING_DISABLING = "Habilitar/Desabilitar Generalizado";
+    GLOBAL_ENABLING_DISABLING_SNOOP = "Habilitar/Desabilitar Snoop Generalizadamente";
+    GLOBAL_ENABLING_DISABLING_STOCKS = "Habilitar/Desabilitar Itens Padrão Generalizadamente";
+    GLOBAL_ENABLING_DISABLING_FOOTER = "Esta seção habilita ou desabilita generalizadamente os itens Snoop e/ou Padrão, com a opção habilitada individualmente ou não. Atua do mesmo jeito que a função principal "Habilitar" das opções do Snoop.";
+}

@@ -1,0 +1,37 @@
+{
+    SBCOLORS = "SBColors";
+    ENABLED = "Habilitado";
+
+    SB_ITEMS_TITLE = "Itens da Barra de Status";
+    COMPATS_EXPL = "Linked compatibilities:\nJuice = Battery Fill\nPrysm items = Labels\nPrysm glyphs = Other glyphs";
+    TIME_PICKER = Horário";
+    STRINGS_PICKER = "Cordas (Operadora, 4G, Breadcrumb)";
+    BATTERY_BODY_PICKER = "Corpo da Bateria";
+    BATTERY_FILL_PICKER = "Preenchimento da Bateria";
+    LTE_ACTIVE_PICKER = "Sinal do 4G (ativo)";
+    LTE_INACTIVE_PICKER = "Sinal do 4G (inativo)";
+    WIFI_ACTIVE_PICKER = "WiFi (ativo)";
+    WIFI_INACTIVE_PICKER = "WiFi (inativo)";
+    ACTIVITY_INDICATOR_PICKER = "Indicador de Atividade";
+    OTHER_GLYPHS_PICKER = "Outros glifos (Não Perturbe, Alarme...)";
+
+    OTHER_TITLE = "Outros";
+    RESET_PREFS = "Restaurar Preferências";
+    RESET_CONFIRMATION = "Você realmente quer restaurar as preferências do SBColors? Isto fará seu aparelho dar um respring.";
+    CONFIRM = "Confirmar";
+    CANCEL = "Cancelar";
+
+    SPECIAL_THANKS_TITLE = "Agradecimentos Especiais";
+
+    CONTRIBUTORS = "Contribuíntes";
+    CONTRIBUTE_TO_TRANSLATIONS = "📖 Contribua com as traduções!";
+
+    SUPPORT_TITLE = "Suporte";
+    BUY_ME_A_COFFEE = "☕️ Me pague um café";
+    FEATURE_REQUEST = "💡 Pedido de melhoria?";
+    MAIL = "Mail";
+    FOUND_A_BUG = "🐞 Encontrou um erro?";
+    SOURCE_CODE = "💻 Código Fonte";
+
+    FOOTER_TEXT = "SBColors por RedenticDev";
+}

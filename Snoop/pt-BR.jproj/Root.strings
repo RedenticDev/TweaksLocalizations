@@ -1,0 +1,27 @@
+{
+    SNOOP = "Snoop";
+    ENABLED = "Habilitado";
+    NO_RESPRING_REQUIRED = "Este tweak não precisa de respring.";
+
+    SNOOP_ALIGNMENT = "Posição do Snoop";
+    SHOW_UNDER = "Abaixo dos itens padrão";
+    SHOW_ON_TOP = "Sobre os outros";
+    SNOOP_ALIGNMENT_FOOTER = "\"Sobre os outros\" fará que o item Snoop seja o mais próximo do logo do aplicativo.";
+
+    FILE_MANAGER = "Gerenciador de Arquivos";
+
+    APPS_OPTIONS = "Oções de Aplicativos";
+    MANAGE_APPS = "Gerenciar aplicativos";
+
+    CONTRIBUTORS = "Contribuíntes";
+    CONTRIBUTE_TO_TRANSLATIONS = "📖 Contribua com as traduções!";
+
+    SUPPORT_TITLE = "Suporte";
+    BUY_ME_A_COFFEE = "☕️ Me pague um café";
+    FEATURE_REQUEST = "💡 Pedido de melhoria?";
+    MAIL = "Mail";
+    FOUND_A_BUG = "🐞 Encontrou um erro?";
+    SOURCE_CODE = "💻 Código Fonte";
+
+    FOOTER_TEXT = "Snoop por RedenticDev";
+}
