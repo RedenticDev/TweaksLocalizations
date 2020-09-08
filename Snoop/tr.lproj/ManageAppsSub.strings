@@ -5,10 +5,10 @@
     TOGGLE_APPS = "Uygulamaları aç/kapat";
     TOGGLE_SNOOP_ACTIVATION = "Snoop öğesi etkinleştirmesini aç/kapat";
     TOGGLE_STOCK_ACTIVATION = "Varsayılan öğe etkinleştirmesini aç/kapat";
-    TOGGLE_FOOTER = "Bu bölüm, her uygulama için ayrı ayrı etkinleştirmeyi açıp kapatır. Her bir seçenek için, açık uygulamaları kapatıp kapalı uygulamaları açar.";
+    TOGGLE_FOOTER = "Bu kısım, her uygulama için ayrı ayrı etkinleştirmeyi açıp kapatır. Her bir seçenek için, açık uygulamaları kapatıp kapalı uygulamaları açar.";
 
     GLOBAL_ENABLING_DISABLING = "Genel Aktifleştirme/Devre Dışı Bırakma";
     GLOBAL_ENABLING_DISABLING_SNOOP = "Snoop'u genel olarak aktif et/devre dışı bırak";
     GLOBAL_ENABLING_DISABLING_STOCKS = "Varsayılan öğeleri genel olarak aktif et/devre dışı bırak";
-    GLOBAL_ENABLING_DISABLING_FOOTER = "Bu bölüm, seçenekler ayrı ayrı açık veya kapalı da olsa, genel olarak Snoop ve/veya varsayılan öğeleri açıp kapatır. Yani, Snoop'un ana menüsündeki 'Aktif et' seçeneği ile aynı işlevi görür.";
+    GLOBAL_ENABLING_DISABLING_FOOTER = "Bu bölüm, seçenekler ayrı ayrı açık veya kapalı da olsa, Snoop ve/veya varsayılan öğeleri genel olarak açıp kapatır. Yani, Snoop'un ana menüsündeki 'Aktif et' seçeneği ile aynı işlevi görür.";
 }
