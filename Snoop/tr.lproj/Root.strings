@@ -1,12 +1,12 @@
 {
     SNOOP = "Snoop";
     ENABLED = "Aktif";
-    NO_RESPRING_REQUIRED = "Bu tweak için respring gerekli değil.";
+    NO_RESPRING_REQUIRED = "Bu tweak için respring yapmak gerekli değil.";
 
     SNOOP_ALIGNMENT = "Snoop Pozisyonu";
     SHOW_UNDER = "Varsayılan öğelerin altında";
     SHOW_ON_TOP = "Diğerlerinin üstünde";
-    SNOOP_ALIGNMENT_FOOTER = "\"Diğerlerinin üstünde\" seçeneği, Snoop'u bir uygulamanın logosuna en yakın öğe yapar.";
+    SNOOP_ALIGNMENT_FOOTER = "\"Diğerlerinin üstünde\" seçeneği, bir Snoop öğesini, uygulamanın logosuna en yakın öğe yapar.";
 
     FILE_MANAGER = "Dosya Yöneticisi";
 
