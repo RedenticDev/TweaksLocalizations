@@ -1,0 +1,4 @@
+{
+    ENABLE_SNOOP = "Habilitar Snoop";
+    ENABLE_STOCK_ITEMS = "Habilitar ítens padrão";
+}
