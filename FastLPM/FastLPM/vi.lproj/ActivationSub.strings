@@ -1,0 +1,25 @@
+{
+    ACTIVATION = "Cài đặt kích hoạt";
+    ACTIVATION_OPTIONS = "Phương pháp kích hoạt";
+    3D_TOUCH_WARNING = "'3D Touch' được thay thế bằng bấm giữ nếu thiết bị của bạn không hỗ trợ.";
+    AREA_ENLARGEMENT = "Kích thước khu vực kích hoạt (px)";
+    ENLARGEMENT_INFO = "Chỉ áp dụng đối với khu vực thanh trạng thái.";
+
+    TAPS = "Bấm";
+    HOLD = "Giữ";
+    SWIPE = "Vuốt";
+    3D_TOUCH = "3D Touch";
+
+    NUMBER_OF_TAPS = "Số lần bấm";
+    HOLDING_TIME = "Thời gian giữ (giây)";
+
+    DIRECTION = "Hướng vuốt";
+    LEFT = "Trái";
+    RIGHT = "Phải";
+    UP = "Trên";
+    DOWN = "Xuống";
+
+    RESPRING_INFO = "Bạn cần khởi động lại SpringBoard để áp dụng các thiết lập.";
+
+    FOOTER_TEXT = "FastLPM bởi RedenticDev";
+}

@@ -1,0 +1,37 @@
+{
+    SBCOLORS = "SBColors";
+    ENABLED = "Kích hoạt";
+
+    SB_ITEMS_TITLE = "Biểu tượng thanh trạng thái";
+    COMPATS_EXPL = "Tùy chọn được liên kết:\nJuice = Phần trong biểu tượng pin\nBiểu tượng Prysm = Nhãn\nTùy chỉnh Prysm = Tùy chỉnh khác";
+    TIME_PICKER = "Giờ";
+    STRINGS_PICKER = "Chữ (Nhà mạng, LTE, ...)";
+    BATTERY_BODY_PICKER = "Phần khung biểu tượng pin";
+    BATTERY_FILL_PICKER = "Phần trong biểu tượng pin";
+    LTE_ACTIVE_PICKER = "Biểu tượng 4G/LTE (khi đang bật)";
+    LTE_INACTIVE_PICKER = "Biểu tượng 4G/LTE (khi đang tắt)";
+    WIFI_ACTIVE_PICKER = "Biểu tượng WiFi (khi đang bật)";
+    WIFI_INACTIVE_PICKER = "Biểu tượng WiFi (khi đang tắt)";
+    ACTIVITY_INDICATOR_PICKER = "Chỉ báo hoạt động";
+    OTHER_GLYPHS_PICKER = "Tùy chỉnh khác (DND, Báo thức...)";
+
+    OTHER_TITLE = "Khác";
+    RESET_PREFS = "Đặt lại tùy chọn";
+    RESET_CONFIRMATION = "Bạn có thực sự muốn đặt lại tùy chọn của SBColors? Thiết bị sẽ khởi động lại SpringBoard.";
+    CONFIRM = "Đồng ý";
+    CANCEL = "Hủy";
+
+    SPECIAL_THANKS_TITLE = "Cảm ơn";
+
+    CONTRIBUTORS = "Người đóng góp";
+    CONTRIBUTE_TO_TRANSLATIONS = "📖 Đóng góp bản dịch!";
+
+    SUPPORT_TITLE = "Hỗ trợ";
+    BUY_ME_A_COFFEE = "☕️ Mua cho tôi cốc cà phê :D";
+    FEATURE_REQUEST = "💡 Yêu cầu tính năng";
+    MAIL = "Mail";
+    FOUND_A_BUG = "🐞 Tìm thấy lỗi?";
+    SOURCE_CODE = "💻 Mã nguồn";
+
+    FOOTER_TEXT = "SBColors bởi RedenticDev";
+}

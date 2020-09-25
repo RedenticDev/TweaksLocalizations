@@ -1,0 +1,23 @@
+{
+    VIBRATION = "Rung";
+
+    VIBRATIONS_7_AND_NEWER = "Độ rung (iPhone 7 & mới hơn)";
+    LIGHT = "Nhẹ";
+    MEDIUM = "Trung bình";
+    HEAVY = "Mạnh";
+    SOFT = "Mềm mại";
+    RIGID = "Cứng rắn";
+    IOS_13_INFOS = "'Mềm mại' & 'Cứng rắn' chỉ có sẵn trên iOS 13+.";
+
+    VIBRATIONS_6S_AND_LESS = "Độ rung (iPhone 6S & cũ hơn)";
+    STRONG = "Mạnh";
+    
+    REPETITION_SETTINGS = "Cài đặt lặp lại";
+    REPEAT_VIBRATIONS = "Lặp lại rung";
+    VIBRATION_REPETITIONS = "Số lần lặp lại";
+    VIBRATION_INTERVAL = "Thời gian giữa mỗi lần rung (giây)";
+    GROWING_DURATION = "Tăng thời gian gữa mỗi lần rung";
+    GROWING_DURATION_EXPL = "Tùy chọn này nhân đôi khoảng thời gian giữa mỗi lần lặp lại.";
+
+    FOOTER_TEXT = "FastLPM bởi RedenticDev";
+}

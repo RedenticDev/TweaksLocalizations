@@ -1,0 +1,42 @@
+{
+    FASTLPM = "FastLPM";
+
+    RESPRING = "Khởi động lại SpringBoard";
+    RESPRING_PROMPT = "Bạn có muốn khởi động lại SpringBoard?";
+    YES_PROMPT = "Có";
+    NO_PROMPT = "Không";
+
+    ENABLED = "Cài đặt kích hoạt";
+    RESPRING_INFO = "Bắt buộc khởi động lại SpringBoard để kích hoạt.";
+
+    ACTIVATION_SETTINGS = "Kích hoạt";
+    ACTIVATION = "Cài đặt kích hoạt";
+    NEEDS_RESPRING = "Bắt buộc khởi động lại SpringBoard để kích hoạt.";
+
+    VIBRATION_ACTIVATION = "Cài đặt rung";
+    VIBRATIONS_ENABLED = "Rung";
+    VIBRATION_SETTINGS = "Cài đặt rung";
+
+    OTHER_TITLE = "Khác";
+    RESET_PREFS = "Đặt lại thiết lập";
+    RESET_CONFIRMATION = "Bạn có thực sự muốn đặt lại thiết lập của FastLPM? Hành động này không thể khôi phục..";
+    CONFIRM = "Xác nhận";
+    CANCEL = "Hủy";
+
+    CONTRIBUTORS = "Người đóng góp";
+    CONTRIBUTE_TO_TRANSLATIONS = "📖 Đóng góp bản dịch";
+
+    SUPPORT_TITLE = "Hỗ trợ";
+    BUY_ME_A_COFFEE = "☕️ Mua cho tôi một cốc cà phê :D";
+    FEATURE_REQUEST = "💡 Yêu cầu tính năng?";
+    MAIL = "Mail";
+    FOUND_A_BUG = "🐞 Tìm thấy lỗi?";
+    SOURCE_CODE = "💻 Mã nguồn";
+
+    FOOTER_TEXT = "FastLPM bởi RedenticDev";
+
+    /* WelcomePageController.m */
+    CONTINUE = "Tiếp tục";
+    THX_FOR_USING = "Cảm ơn đã sử dụng %@!";
+    WHATS_NEW = "Có gì mới trong %@?";
+}
