@@ -1,0 +1,6 @@
+{
+    SBCOLORS = "SBColors";
+
+    TESTERS = "Người thử nghiệm";
+    TRANSLATORS = "Người dịch";
+}
